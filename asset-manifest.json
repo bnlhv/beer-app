@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Breweries-app/static/css/main.0c3d01e7.chunk.css",
+    "main.js": "/Breweries-app/static/js/main.0964acca.chunk.js",
+    "main.js.map": "/Breweries-app/static/js/main.0964acca.chunk.js.map",
+    "runtime-main.js": "/Breweries-app/static/js/runtime-main.038dec35.js",
+    "runtime-main.js.map": "/Breweries-app/static/js/runtime-main.038dec35.js.map",
+    "static/js/2.af3cf1bd.chunk.js": "/Breweries-app/static/js/2.af3cf1bd.chunk.js",
+    "static/js/2.af3cf1bd.chunk.js.map": "/Breweries-app/static/js/2.af3cf1bd.chunk.js.map",
+    "index.html": "/Breweries-app/index.html",
+    "precache-manifest.45a0769a720646edad0e2a3e5f7fb91a.js": "/Breweries-app/precache-manifest.45a0769a720646edad0e2a3e5f7fb91a.js",
+    "service-worker.js": "/Breweries-app/service-worker.js",
+    "static/css/main.0c3d01e7.chunk.css.map": "/Breweries-app/static/css/main.0c3d01e7.chunk.css.map",
+    "static/js/2.af3cf1bd.chunk.js.LICENSE.txt": "/Breweries-app/static/js/2.af3cf1bd.chunk.js.LICENSE.txt",
+    "static/media/beer-jumbo.jpg": "/Breweries-app/static/media/beer-jumbo.87d522b5.jpg",
+    "static/media/beer-logo.jpg": "/Breweries-app/static/media/beer-logo.c3a5e0de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.038dec35.js",
+    "static/js/2.af3cf1bd.chunk.js",
+    "static/css/main.0c3d01e7.chunk.css",
+    "static/js/main.0964acca.chunk.js"
+  ]
+}
