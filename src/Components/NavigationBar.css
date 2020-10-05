@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background-color: rgb(107, 144, 156);
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+ul {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+} 
+
+li:hover, .logo:hover {
+    color: white;
+}
+
+/* Image {
+    width: 10%;
+    height: 10px;
+} */
